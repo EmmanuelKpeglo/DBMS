@@ -1,4 +1,4 @@
---Current Time
+s--Current Time
 --Display the current date
 select current_date 
 
